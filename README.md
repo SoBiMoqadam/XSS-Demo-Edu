@@ -84,7 +84,6 @@ Browser vulnerable app example:
 
 ![XSS Demo](XSS_DEMO.png)
 
-> Replace `screenshot.png` with your actual terminal/browser screenshot.
 
 ---
 
