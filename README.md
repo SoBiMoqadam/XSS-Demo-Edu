@@ -1,12 +1,6 @@
 #  XSS-Demo-Edu 
 
-![](https://img.shields.io/github/license/YourUsername/XSS-Demo-Edu)
-![](https://img.shields.io/github/issues/YourUsername/XSS-Demo-Edu)
-![](https://img.shields.io/github/issues-closed/YourUsername/XSS-Demo-Edu)
 ![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/YourUsername/XSS-Demo-Edu)
-![](https://img.shields.io/github/stars/YourUsername/XSS-Demo-Edu)
-![](https://img.shields.io/github/last-commit/YourUsername/XSS-Demo-Edu)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20MacOS-blue)
 
 **Educational project to demonstrate Cross-Site Scripting (XSS) attacks safely on localhost.**
