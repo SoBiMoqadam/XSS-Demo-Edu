@@ -1,5 +1,3 @@
----
-
 # XSS-Demo-Edu 🚀👾
 
 ![](https://img.shields.io/badge/Python-3-blue)
@@ -9,7 +7,7 @@
 
 ---
 
-##  Important Warnings
+## ⚠ Important Warnings
 
 *  Do **NOT** run on real websites
 *  Only run on **localhost** (`127.0.0.1`)
@@ -18,7 +16,7 @@
 
 ---
 
-## 🛠 Installation on Linux / MacOS
+##  Installation on Linux / MacOS
 
 ### Step 1: Clone the repository
 
@@ -106,7 +104,7 @@ Provide a **safe hacking lab** to test XSS attacks and learn secure coding pract
 
 ---
 
-## Requirements
+##  Requirements
 
 ```
 Flask
@@ -119,5 +117,3 @@ termcolor
 ```bash
 pip install -r requirements.txt
 ```
-
-
