@@ -4,8 +4,6 @@
 
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20MacOS-blue)
-![](https://img.shields.io/github/stars/YourUsername/XSS-Demo-Edu)
-![](https://img.shields.io/github/forks/YourUsername/XSS-Demo-Edu)
 
 ** Hands-On Hacking Lab:** Safely explore **Cross-Site Scripting (XSS)** attacks on localhost with this educational project.
 
