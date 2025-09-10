@@ -7,7 +7,7 @@
 
 ---
 
-## ⚠ Important Warnings
+## Important Warnings
 
 *  Do **NOT** run on real websites
 *  Only run on **localhost** (`127.0.0.1`)
