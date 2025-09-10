@@ -1,18 +1,22 @@
-#  XSS-Demo-Edu 
+---
+
+# XSS-Demo-Edu 🚀👾
 
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20MacOS-blue)
+![](https://img.shields.io/github/stars/YourUsername/XSS-Demo-Edu)
+![](https://img.shields.io/github/forks/YourUsername/XSS-Demo-Edu)
 
-**Educational project to demonstrate Cross-Site Scripting (XSS) attacks safely on localhost.**
+** Hands-On Hacking Lab:** Safely explore **Cross-Site Scripting (XSS)** attacks on localhost with this educational project.
 
 ---
 
-## Important Warnings
+##  Important Warnings
 
- Do **NOT** use on real websites
- Only run on **localhost** (`127.0.0.1`)
- Vulnerable mode is unsafe, use only for learning
- Secure mode is safe and recommended
+*  Do **NOT** run on real websites
+*  Only run on **localhost** (`127.0.0.1`)
+*  Vulnerable mode is unsafe, use **only for learning**
+*  Secure mode is safe and recommended
 
 ---
 
@@ -44,7 +48,7 @@ python3 xss_demo.py
 
 ---
 
-## 🎛 Menu Options
+##  Menu Options
 
 ```
 Select an Option:
@@ -82,7 +86,7 @@ Main menu in terminal:
 
 Browser vulnerable app example:
 
-![XSS Demo](screenshot.png)
+![XSS Demo](XSS_DEMO.png)
 
 > Replace `screenshot.png` with your actual terminal/browser screenshot.
 
@@ -90,15 +94,32 @@ Browser vulnerable app example:
 
 ##  Learning Outcomes
 
-* Learn **types of XSS**: Stored, Reflected, DOM-based
-* Understand how **unsanitized user input** can be exploited
-* Compare **vulnerable** vs **safe** behavior
-* Practice **secure coding** for web applications
+* 🔹 Learn **types of XSS**: Stored, Reflected, DOM-based
+* 🔹 Understand how **unsanitized user input** can be exploited
+* 🔹 Compare **vulnerable** vs **safe** behavior
+* 🔹 Practice **secure coding** for web applications
+* 🔹 Build a **hacker mindset safely**
 
 ---
 
 ##  Goal
 
-Provide a **safe environment** to test XSS attacks and learn secure coding practices.
+Provide a **safe hacking lab** to test XSS attacks and learn secure coding practices.
 
 ---
+
+## Requirements
+
+```
+Flask
+pyfiglet
+termcolor
+```
+
+> Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+
