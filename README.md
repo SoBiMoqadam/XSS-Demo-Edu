@@ -21,7 +21,7 @@
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/XSS-Demo-Edu.git
+git clone https://github.com/SoBiMoqadam/XSS-Demo-Edu.git
 ```
 
 ### Step 2: Move into the directory
